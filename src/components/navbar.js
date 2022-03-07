@@ -33,7 +33,7 @@ const Navbar = () => {
                 <Link to="/SignUp">SignIn</Link>
               </button>
               <button class="btn btn-outline-success" type="submit">
-                <Link to="/login">LogIn</Link>
+                <Link to="/LogIn">LogIn</Link>
               </button>
             </div>
           </div>

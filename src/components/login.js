@@ -94,8 +94,8 @@ const LogIn = () => {
         <Button className="btn-lg btn-dark btn-block" type="submit">
           Log In
         </Button>
-        <h4>Hello {finalEmail}</h4>
-        <h1>hey {finalPassword}</h1>
+        {/* <h4>Hello {finalEmail}</h4>
+        <h1>hey {finalPassword}</h1> */}
       </Form>
     </div>
   );

@@ -169,12 +169,12 @@ const SignUp = () => {
         <Button className="btn-lg btn-dark btn-block" type="submit">
           Submit
         </Button>
-        <h4>hello {finalfName}</h4>
+        {/* <h4>hello {finalfName}</h4>
         <h4>hello {finallName}</h4>
         <h4>hello {finalemail}</h4>
         <h4>hello {fphone}</h4>
         <h4>hello {fpassword}</h4>
-        <h4>hello {fconfpass}</h4>
+        <h4>hello {fconfpass}</h4> */}
       </Form>
     </div>
   );
